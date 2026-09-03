@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá! Sou Analista de Desenvolvimento de Sistemas & Engenheiro de Software 👋
 
-<!--
-**rmsigla/rmsigla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Desenvolvimento de Sistemas com mais de 5 anos de experiência, especializado no ciclo completo de engenharia para aplicações de **alta criticidade** nos setores Financeiro, Contábil, Fiscal e Faturamento.
 
-Here are some ideas to get you started:
+- 🎓 **Formação:** Pós-graduado em Engenharia de Software | Graduado em Análise e Desenvolvimento de Sistemas.
+- 💼 **Foco atual:** Arquitetura e sustentação de sistemas de missão crítica voltados à **Reforma Tributária**, modelagem de dados, integrações bancárias e conformidade regulatória.
+- ⚙️ **Ciclo completo:** Refinamento técnico, arquitetura, testes E2E e deploy seguro em produção.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+- **Linguagens & Frameworks:** PowerBuilder, C#, .NET
+- **Arquitetura & APIs:** Microserviços, REST APIs, SOAP Web Services
+- **Bancos de Dados:** Oracle, SQL Server, MongoDB (NoSQL)
