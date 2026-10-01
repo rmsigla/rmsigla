@@ -4,7 +4,6 @@
 
 Analista e Desenvolvedor de Sistemas com mais de 5 anos de experiência em engenharia de software para aplicações de **alta criticidade** nos setores Financeiro, Contábil, Fiscal e Faturamento.
 - 🎓 **Formação:** Pós-graduado em Engenharia de Software | Graduado em Análise e Desenvolvimento de Sistemas
-- 💼 **Especialidade:** Arquitetura de microsserviços, modelagem de dados, regras de negócio complexas e conformidade regulatória
 ---
 **`📬 Onde me encontrar`**
 
