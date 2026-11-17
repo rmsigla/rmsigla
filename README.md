@@ -2,14 +2,6 @@
 
 **`Fullstack Developer | Software Engineer`**
 
-Analista e Desenvolvedor de Sistemas com mais de 5 anos de experiência em engenharia de software para aplicações de **alta criticidade** nos setores Financeiro, Contábil, Fiscal e Faturamento.
-- 🎓 **Formação:** Pós-graduado em Engenharia de Software | Graduado em Análise e Desenvolvimento de Sistemas
----
-**`📬 Onde me encontrar`**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([SEU_LINK_DO_LINKEDIN](https://www.linkedin.com/in/romulo-amorim/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:romintl67@gmail.com)
-
 **`🤖 Linguagens e Tecnologias`**
 
 <img 
